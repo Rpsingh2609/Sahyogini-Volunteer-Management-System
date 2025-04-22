@@ -76,11 +76,11 @@ The application can be deployed on platforms like **Vercel, Netlify (for fronten
 
 ### Contributors
 - **AMAN CHOURASIA**
-- **RAJAN PRATAP SINGH**
+- **ANURAG PRAJAPATI**
 
 ## License
 This project is licensed under the **MIT License**.
 
 ## Contact
-For any issues or contributions, feel free to raise an issue or contact me at [anuragprajapati02005@gmail.com].
+For any issues or contributions, feel free to raise an issue or contact me at [rajanpratapsingh517@gmail.com].
 
